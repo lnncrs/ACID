@@ -1,0 +1,1 @@
+C:\Users\lenin\Documents\Projects\ufabc-so-acid\_docs\sqlio\testfile.dat 4 0x0 64
